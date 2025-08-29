@@ -20,4 +20,4 @@ public class Average {
         System.out.println("Average num1-num5 = "+result);
         
     }
-}
+}   
